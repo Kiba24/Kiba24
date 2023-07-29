@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salvador</h1>
-- 🔭 I’m currently working on **NEORIS**
+- 🔭 I’m a Junior Fullstack developer working at **Neoris**
 
 - 🌱 I’m currently learning **Spring Boot**
 
