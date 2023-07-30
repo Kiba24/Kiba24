@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salvador</h1>
 
+
+  _  _____ ___   _   
+ | |/ /_ _| _ ) /_\  
+ | ' < | || _ \/ _ \ 
+ |_|\_\___|___/_/ \_\
+                     
+
+
 - 🔭 I’m a Junior Fullstack developer working at **NEORIS**
 
 - 🌱 I’m currently learning **Spring Boot**
