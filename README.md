@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Junior Fullstack developer working at **NEORIS**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning Algorithms & Data structures (I didn't pay attention to this topic when i was learning about coding)
 
 - 📫 How to reach me **salvadoraguirre.info@gmail.com**
 
