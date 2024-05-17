@@ -15,6 +15,8 @@
 <a href="https://www.linkedin.com/in/salvador-aguirre24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvador aguirre" height="30" width="40" /></a>
 </p>
 
+
+
 # 👨‍💻 Skills 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
