@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salvador</h1>
               
-
-
-- 🔭 I’m a Junior Fullstack developer working at **ENCODE**
-
-- 🌱 I’m currently learning Algorithms & Data structures (I didn't pay attention to this topic when i was learning about coding)
+- 🔭 I’m a Software Developer Analyst working at **ENCODE**
 
 - 📫 How to reach me **salvadoraguirre.info@gmail.com**
 
