@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **salvadoraguirre.info@gmail.com**
 
+- 🐳 Docker & DevOps enthusiast
+
 # Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/salvador-aguirre24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvador aguirre" height="30" width="40" /></a>
